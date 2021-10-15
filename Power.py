@@ -1,0 +1,31 @@
+print("\t\t\t\t <<- Power Calculator ->>")
+
+a=int(input("\n Value  : "))
+b=int(input("\n Power  : "))
+
+print("<<<------------------------RESULT--------------------->>> \n")
+
+print(" Your Result:-")
+print("\t",a,"power",b,"=",a**b)
+
+print("\nOther Results:-")
+
+print(a,"power 2","=",a**2)
+print(a,"power 3","=",a**3)
+print(a,"power 4","=",a**4)
+print(a,"power 5","=",a**5)
+print(a,"power 6","=",a**6)
+print(a,"power 7","=",a**7)
+print(a,"power 8","=",a**8)
+print(a,"power 9","=",a**9)
+print(a,"power 10","=",a**10)
+print(a,"power 11","=",a**11)
+print(a,"power 12","=",a**12)
+print(a,"power 13","=",a**13)
+print(a,"power 14","=",a**14)
+print(a,"power 15","=",a**15)
+print(a,"power 16","=",a**16)
+print(a,"power 17","=",a**17)
+print(a,"power 18","=",a**18)
+print(a,"power 19","=",a**19)
+print(a,"power 20","=",a**20)
